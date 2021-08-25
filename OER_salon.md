@@ -29,22 +29,21 @@ translation: Deutsch  translations/German.md
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/WillkommenAufLiaScript/master/OER_salon.md#1)
 
-# HDS.Salon
+# OER im Kleinen wie im Großen
 
-<p style="font-size:50px">OER im Kleinen wie im Großen</p>
+Diese Präsentation beschreibt die Vision der _Open Educational Ressources_ aus Sicht des [LiaScript](https://liascript.github.io/)-Teams. Das Material basiert auf einem Pitch-Talk im Rahmen des [HDS.Salon](https://www.hd-sachsen.de/web/page.php?id=252) vom 5.11.2020.
 
-5.11.2020
+_ Der Quellcode kann des Open Source Dokuments ist unter [Link](https://github.com/SebastianZug/WillkommenAufLiaScript/blob/master/OER_salon.md) zu finden._
 
 ------------------------------------------------------
 
 Sebastian Zug, 
+
 Fakultät für Mathematik und Informatik
+
 TU Bergakademie Freiberg
 
 ------------------------------------------------------
-
-_Auch dieser Vortrag ist ein Open Source Dokument und unter [Link](https://github.com/SebastianZug/WillkommenAufLiaScript/blob/master/OER_salon.md) zu finden._
-
 
 ## Motivation
 
