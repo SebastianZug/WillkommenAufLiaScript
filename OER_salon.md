@@ -27,6 +27,8 @@ translation: Deutsch  translations/German.md
 
 -->
 
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/WillkommenAufLiaScript/master/OER_salon.md#1)
+
 # HDS.Salon
 
 <p style="font-size:60px">OER im Kleinen wie im Großen</p>
