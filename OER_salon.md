@@ -3,7 +3,7 @@ author:   Sebastian Zug
 
 email:    Sebastian.Zug@informatik.tu-freiberg.de
 
-version:  1.0.2
+version:  1.0.3
 
 language: de
 
@@ -31,14 +31,19 @@ translation: Deutsch  translations/German.md
 
 # HDS.Salon
 
-<p style="font-size:60px">OER im Kleinen wie im Großen</p>
+<p style="font-size:50px">OER im Kleinen wie im Großen</p>
 
 5.11.2020
 
-Sebastian Zug, TU Bergakademie Freiberg
+------------------------------------------------------
 
+Sebastian Zug, 
+Fakultät für Mathematik und Informatik
+TU Bergakademie Freiberg
 
-_Auch dieser Vortrag ist ein Open Source Dokument und unter  zu finden._
+------------------------------------------------------
+
+_Auch dieser Vortrag ist ein Open Source Dokument und unter [Link](https://github.com/SebastianZug/WillkommenAufLiaScript/blob/master/OER_salon.md) zu finden._
 
 
 ## Motivation
