@@ -27,7 +27,7 @@ translation: Deutsch  translations/German.md
 
 -->
 
-[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/WillkommenAufLiaScript/master/eTeach_Talks.md#1)
+[![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/WillkommenAufLiaScript/master/eTeach_Talk.md#1)
 
 # Open Educational Ressources (OER) - Vision, Vorteile und praktische Umsetzung mit LiaScript und OPAL
 
