@@ -3,7 +3,7 @@ author:   Sebastian Zug, André Dietrich
 
 email:    Sebastian.Zug@informatik.tu-freiberg.de
 
-version:  0.0.4
+version:  0.0.5
 
 language: de
 
@@ -31,9 +31,9 @@ translation: Deutsch  translations/German.md
 
 # Open Educational Ressources (OER) - Vision, Vorteile und praktische Umsetzung mit LiaScript und OPAL
 
-![alt-text](images/Global_Open_Educational_Resources_Logo.png "OER-Logo - Quelle: Jonathasmello - Eigenes Werk, CC BY 3.0, [https://commons.wikimedia.org/w/index.php?curid=18460156](https://commons.wikimedia.org/w/index.php?curid=18460156)")
+![OER logo](images/Global_Open_Educational_Resources_Logo.png "OER-Logo - Quelle: Jonathasmello - Eigenes Werk, CC BY 3.0, [https://commons.wikimedia.org/w/index.php?curid=18460156](https://commons.wikimedia.org/w/index.php?curid=18460156)")
 
-Diese Präsentation beschreibt die Vision der _Open Educational Ressources_ mit LiaScript und OPAL. Der Beitrag wurde im Rahmen der [eTeach-Talks an der Bergakademie](https://blogs.hrz.tu-freiberg.de/elearning/e-teachtalk-neues-austauschformat-fuer-lehrende-der-tubaf/) am 23. März .2022 vorgestellt.
+Diese Präsentation beschreibt die Vision der _Open Educational Ressources_ mit LiaScript und OPAL. Der Beitrag wurde im Rahmen der [eTeach-Talks an der Bergakademie](https://blogs.hrz.tu-freiberg.de/elearning/e-teachtalk-neues-austauschformat-fuer-lehrende-der-tubaf/) am 23. März 2022 vorgestellt.
 
 _ Der Quellcode kann des Open Source Dokuments ist unter [Link](https://github.com/SebastianZug/WillkommenAufLiaScript/blob/master/eTeach_Talks.md) zu finden._
 
@@ -55,10 +55,10 @@ TU Bergakademie Freiberg
 > Lehrende möchten motivierende, interaktive Lehrmaterialien realisieren.
 
 {{1-2}}
-> Lehrende möchten motivierende, interaktive Lehrmaterialien mit eine überschaubaren Aufwand realisieren.
+> Lehrende möchten motivierende, interaktive Lehrmaterialien mit einem überschaubaren Aufwand realisieren.
 
 {{2-3}}
-> Lehrende möchten maximal motivierende, interaktive Lehrmaterialien mit eine überschaubaren Aufwand realisieren, die optimal auf die eigenen didaktischen Ziele abgestimmt sind.
+> Lehrende möchten maximal motivierende, interaktive Lehrmaterialien mit einem überschaubaren Aufwand realisieren, die optimal auf die eigenen didaktischen Ziele abgestimmt sind.
 
 {{3}}
 ********************************************************************************
@@ -227,23 +227,23 @@ style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-
 style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-right: auto;"
 -->
 ```ascii
-+------------------+                                 
-| # Digital Systems|\                                      .-----------.                 
-| (SoSe 2021)      +-+                              ╔══════|   LMS  X  |══════╗     
++------------------+
+| # Digital Systems|\                                      .-----------.
+| (SoSe 2021)      +-+                              ╔══════|   LMS  X  |══════╗
 |                    |  --------------------------> ║      '-----------'      ║
-| ## Task 1          |                              ║ Digital Systems 2021    ║     
-|                    |                              ║                         ║    
-| + Implement ...    | --------------+              ║ import numpy as np      ║    
-|                    |    Trans-     |              ║ ...                     ║         
-|                    |    formation  |              ╚═════════════════════════╝         
-+--------------------+               v   
-                                .-,(   ),-.                .-----------.        
+| ## Task 1          |                              ║ Digital Systems 2021    ║
+|                    |                              ║                         ║
+| + Implement ...    | --------------+              ║ import numpy as np      ║
+|                    |    Trans-     |              ║ ...                     ║
+|                    |    formation  |              ╚═════════════════════════╝
++--------------------+               v
+                                .-,(   ),-.                .-----------.
 Lizenz: ...                  .-(           )-.      ╔══════|   LMS  Y  |══════╗
 Inhalt: ...                 (    OER Cloud    )     ║      '-----------'      ║
 Autor: ...                   '-(           )-'  +-->║ Digital Systems 2021    ║
 Versionshistorie: ...           '-.(   ).-'     |   ║                         ║
                                      |          |
-                                     +----------+          .-----------.       
+                                     +----------+          .-----------.
                                                 |   ╔══════|  Webapp   |══════╗
                                                 |   ║      '-----------'      ║
                                                 +-->║ Digital Systems 2021    ║
@@ -257,13 +257,13 @@ Versionshistorie: ...           '-.(   ).-'     |   ║                         
                 {{0-1}}
 ********************************************************************************
 
-Anderen Kursmaterialien zur Verfügung zu stellen ist in OPAL im Wesentlichen auf 3 Wegen möglich:
+Anderen Kursmaterialien zur Verfügung zu stellen, ist in OPAL im Wesentlichen auf 3 Wegen möglich:
 
 + für ganze Kurse
 
    - innerhalb der OPAL "Welt" als offene Kurse
    - über Exportschnittstellen, die die Einbettung in andere LMS ermöglichen
-   - manuelle Übertragung  
+   - manuelle Übertragung
 
 + für einzelne Dateien
 
@@ -316,7 +316,7 @@ Die Materialien im OPAL kommen überwiegend ohne Lizenzen und als geschlossenes 
 
 *LiaScript* löst den Inhalt vom LMS und erlaubt die Anwendung von Methoden der verteilten Softwareentwicklung.
 
-- Bescheibungssprache
+- Beschreibungssprache
 - Verteilte Entwicklung
 - Serverlose Infrastruktur
 - Dynamische Inhalte
@@ -421,7 +421,7 @@ In der folgenden Demo wird die Integration von LiaScript auf Basis des Exporters
 
 Ergebnisse:
 
-1. Aus der Zusammenarbeit an den Materialien entsteht im Kontext eines Kernteams ein "wir" Gedanke.
+1. Aus der Zusammenarbeit an den Materialien entsteht im Kontext eines Kernteams ein "Wir" Gedanke.
 2. Fehler werden deutlich schneller ausgemerzt als in vergangenen Jahren. Die "kurzfristige" Qualität steigt an.
 3. Die Interaktion zwischen Lehrenden und Studierenden steigert sich - *"Sollte man das nicht besser so erklären ..."*
 4. Das Verständnis über verteilte Entwicklung von Inhalten entwickelt sich sehr positiv, selbst die Nicht-Informatiker beschäftigen sich mit den Methoden.
