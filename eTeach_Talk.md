@@ -1,9 +1,9 @@
 <!--
-author:   Sebastian Zug
+author:   Sebastian Zug, André Dietrich
 
 email:    Sebastian.Zug@informatik.tu-freiberg.de
 
-version:  1.0.3
+version:  0.0.4
 
 language: de
 
@@ -39,7 +39,7 @@ _ Der Quellcode kann des Open Source Dokuments ist unter [Link](https://github.c
 
 ------------------------------------------------------
 
-Sebastian Zug,
+Sebastian Zug, André Dietrich
 
 Fakultät für Mathematik und Informatik
 
