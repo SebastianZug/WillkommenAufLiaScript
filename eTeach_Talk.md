@@ -3,7 +3,7 @@ author:   Sebastian Zug, André Dietrich
 
 email:    Sebastian.Zug@informatik.tu-freiberg.de
 
-version:  0.0.5
+version:  0.0.6
 
 language: de
 
@@ -51,14 +51,9 @@ TU Bergakademie Freiberg
 
 ## OER Vision
 
-{{0-1}}
-> Lehrende möchten motivierende, interaktive Lehrmaterialien realisieren.
-
-{{1-2}}
-> Lehrende möchten motivierende, interaktive Lehrmaterialien mit einem überschaubaren Aufwand realisieren.
-
-{{2-3}}
-> Lehrende möchten maximal motivierende, interaktive Lehrmaterialien mit einem überschaubaren Aufwand realisieren, die optimal auf die eigenen didaktischen Ziele abgestimmt sind.
+> {0-1}{Lehrende möchten motivierende, interaktive Lehrmaterialien realisieren.}
+> {1-2}{Lehrende möchten motivierende, interaktive Lehrmaterialien mit einem überschaubaren Aufwand realisieren.}
+> {2-3}{Lehrende möchten maximal motivierende, interaktive Lehrmaterialien mit einem überschaubaren Aufwand realisieren, die optimal auf die eigenen didaktischen Ziele abgestimmt sind.}
 
 {{3}}
 ********************************************************************************
