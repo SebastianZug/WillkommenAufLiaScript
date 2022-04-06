@@ -3,7 +3,7 @@ author:   Sebastian Zug
 
 email:    Sebastian.Zug@informatik.tu-freiberg.de
 
-version:  1.0.3
+version:  1.0.4
 
 language: de
 
@@ -56,9 +56,6 @@ TU Bergakademie Freiberg
 
 ## OER Vision
 
-                                  {{0-1}}
-********************************************************************************
-
 <!--
 style="width: 100%; max-width: 860px; display: block; margin-left: auto; margin-right: auto;"
 -->
@@ -91,22 +88,6 @@ Kurs.txt         Version 1.0          Kurs.txt          Version 1.1
                                       | Reise ...                 |
 ```
 *Versionen der Lehrinhalte eines Kurses und deren Wiederverwendung in anderen Veranstaltungen*
-
-********************************************************************************
-
-                                 {{1-2}}
-********************************************************************************
-
-| Anforderung                  | Bedeutung                                  |
-| ---------------------------- | ------------------------------------------ |
-| `verwahren/vervielfältigen ` | Download, Speicherung und Vervielfältigung |
-| `verwenden`                  | Nutzung im Lernkontext                     |
-| `verarbeiten`                | Umgestaltung und Adaption                  |
-| `vermischen`                 | Kombination und Extraktion                 |
-| `verbreiten`                 | (digitale) Publikation                     |
-*_5 V-Freiheiten für Offenheit_ von Jöran Muuß-Merholz und Jörg Lohrer für [open-educational-ressources](https://open-educational-resources.de) - Transferstelle für OER*
-
-********************************************************************************
 
 ## OER Hemmnisse
 
