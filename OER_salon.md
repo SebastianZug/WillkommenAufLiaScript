@@ -20,11 +20,9 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 logo:     ./images/logo.png
 
-import: https://raw.githubusercontent.com/LiaTemplates/Rextester/master/README.md
-        https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
+import:   https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
 
 translation: Deutsch  translations/German.md
-
 -->
 
 [![LiaScript](https://raw.githubusercontent.com/LiaScript/LiaScript/master/badges/course.svg)](https://liascript.github.io/course/?https://raw.githubusercontent.com/SebastianZug/WillkommenAufLiaScript/master/OER_salon.md#1)
@@ -49,8 +47,10 @@ TU Bergakademie Freiberg
 
            {{0-2}}
 ********************************************************************************
+
 > Open Courseware / Open Educational Resources _ ... teaching, learning and research materials in any medium, digital or otherwise,that reside in the **public domain** or have been released under an open license that permits no-cost access, use, **adaptation** and **redistribution** by others with no or limited restrictions. Open licensing is built within the existing framework of intellectual property rights as defined by relevant international conventions and respects the authorship of the work_
 [UNESCO 2002 Forum on the Impact of Open Courseware for Higher Education in Developing Countries]
+
 ********************************************************************************
 
            {{1-2}}

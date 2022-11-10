@@ -20,9 +20,6 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 logo:     ./images/logo.png
 
-import: https://raw.githubusercontent.com/LiaTemplates/Rextester/master/README.md
-        https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
-
 translation: Deutsch  translations/German.md
 
 -->

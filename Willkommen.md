@@ -20,7 +20,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 logo:     ./images/logo.png
 
-import: https://raw.githubusercontent.com/LiaTemplates/Rextester/master/README.md
+import: https://github.com/liascript/CodeRunner
         https://raw.githubusercontent.com/liaTemplates/processingjs/master/README.md
 
 translation: Deutsch  translations/German.md
@@ -583,7 +583,7 @@ int main()
   return 0;
 }
 ```
-@Rextester.CPP
+@LIA.eval(`["main.cpp"]`, `g++ -Wall main.cpp -o a.out`, `./a.out`)
 
 ## Verteiltes Versionmanagment
 
