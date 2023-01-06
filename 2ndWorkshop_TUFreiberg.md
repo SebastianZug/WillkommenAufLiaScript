@@ -18,7 +18,7 @@ import:   https://raw.githubusercontent.com/liaTemplates/AVR8js/main/README.md
 
 -------------------------------------------------------------------------------
 
-![Screenshot of abandoned education plattforms](pic/CodiLia_screenshot.png)
+![Screenshot of abandoned education plattforms](images/CodiLia_screenshot.png)
 
 -------------------------------------------------------------------------------
 
@@ -56,7 +56,7 @@ Gefahren geschlossener Plattformen
 ================================
 
 
-![Screenshot of abandoned education plattforms](pic/AdresseNichtGefunden.png "Source: ['Adresse nicht gefunden' – Auf den digitalen Spuren der E-Teaching-Förderprojekte](https://www.pedocs.de/volltexte/2011/3215/pdf/Haug_Wedekind_Adresse_nicht_gefunden_D_A.pdf)")
+![Screenshot of abandoned education plattforms](images/AdresseNichtGefunden.png "Source: ['Adresse nicht gefunden' – Auf den digitalen Spuren der E-Teaching-Förderprojekte](https://www.pedocs.de/volltexte/2011/3215/pdf/Haug_Wedekind_Adresse_nicht_gefunden_D_A.pdf)")
 
 > __Warum ist das so?__
 
@@ -148,7 +148,7 @@ Entwicklungspfad
 `````````
 
 
-![Screenshot](pic/LiaScriptAtomScreenShot_1.0.png "Screenshot LiaScript V1.0")
+![Screenshot](images/LiaScriptAtomScreenShot_1.0.png "Screenshot LiaScript V1.0")
 
 
 *******************************************************************************
@@ -161,9 +161,9 @@ Und wer nutzt das?
 
 + Aktuell bestehen unter GitHub öffentliche 104 Repositories, die `LiaScript` im Namen tragen.
 
-  ![Screenshot of abandoned education plattforms](pic/Screenshot_LiaScriptBeispiel.png)
-  ![Screenshot of abandoned education plattforms](pic/Screenshot_Twillo.png)
-  ![Screenshot of abandoned education plattforms](pic/Screenshot_LiaScriptBeispiel2.png)
+  ![Screenshot of abandoned education plattforms](images/Screenshot_LiaScriptBeispiel.png)
+  ![Screenshot of abandoned education plattforms](images/Screenshot_Twillo.png)
+  ![Screenshot of abandoned education plattforms](images/Screenshot_LiaScriptBeispiel2.png)
 
 + Auf der CodiLia-Instanz in Freiberg haben 177 Nutzer 308 Dokumente angelegt.
 
@@ -180,7 +180,7 @@ Welche Möglichkeiten ergeben sich daraus?
 
 + Einbettung der Studierenden in die kontinuierliche Entwicklung der Materialien
 
-  ![Screenshot of abandoned education plattforms](pic/Contributors.png)
+  ![Screenshot of abandoned education plattforms](images/Contributors.png)
 
 *******************************************************************************
 
